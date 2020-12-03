@@ -4,7 +4,8 @@
 
 ## Dataset
 
-> This data set includes information about individual rides made in a bike-sharing system covering the greater New York in the first quartile in 2020.
+> This data set includes information about individual rides made in a bike-sharing system covering the greater New York in the first quartile in 2020.<br>
+you can download the first three months of 2020 from https://s3.amazonaws.com/tripdata/index.html 
 
 
 ## Summary of Findings
